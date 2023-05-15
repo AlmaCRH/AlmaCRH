@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack student.<br>Interested in learn machine learning & videogames programming.<br>Currently using React.<br>Don't worry, try again tomorrow.
+Full-Stack developer.<br>Interested in learn machine learning & videogames programming.<br>Currently using React.<br>Don't worry, try again tomorrow.
 
 
 # 💻 Tech Stack:
