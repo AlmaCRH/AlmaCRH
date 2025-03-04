@@ -40,6 +40,7 @@
 </td></table>  
 
 <br/>  
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=almacrh)](https://github.com/almacrh/github-readme-stats)
 
 
 
