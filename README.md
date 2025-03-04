@@ -36,10 +36,11 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
-
 </td></table>  
 
 <br/>  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almacrh)](https://github.com/almacrh/github-readme-stats)
 
 
 
