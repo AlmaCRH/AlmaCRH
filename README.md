@@ -1,10 +1,10 @@
 ### <div align="center">I'm Alma, a full-time full-stack web developer </div>  
   
+🌸 Currently available to work!
 
-- 🔭 I’m currently working in automation  
+👩🏻‍💻 I’m an active learner improving my programming skills!
   
-
-- 🌱 I’m currently learning Python and Machine Learning  
+📫 Reach me: alma@almacrh.com
   
 
 <br/>  
