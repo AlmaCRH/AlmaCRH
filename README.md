@@ -17,6 +17,8 @@
 
 
 ## My Skill Set  
+
+<img src="/skills.png"/>
 <table><tr><td valign="top" width="33%">
 
 <p align="center">
