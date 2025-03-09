@@ -8,7 +8,9 @@
 
 <br/>
 <p align="center">
+  <a href="https://www.codewars.com/users/R3vna">
   <img src="https://www.codewars.com/users/R3vna/badges/large" alt="CodeWars Badge">
+  </a>
 </p>
 
 <br/>  
