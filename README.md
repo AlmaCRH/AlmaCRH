@@ -6,7 +6,7 @@
   
 📫 Reach me: alma@almacrh.com
 <div align="center">  
-  ![codewars](https://www.codewars.com/users/R3vna/badges/large)
+  ![codewars](badge)(https://www.codewars.com/users/R3vna/badges/large)
 </div>
 
 
