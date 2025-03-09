@@ -42,6 +42,6 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 <br/>  
 
-![Alma's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=almacrh&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)
+![Alma's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=almacrh&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=dracula&show_icons=true)
 
 
