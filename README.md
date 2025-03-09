@@ -20,10 +20,6 @@
 <table><tr><td valign="top" width="33%">
 
 <p align="center">
-  <img src="https://www.solidbackgrounds.com/images/1920x1080/1920x1080-light-pastel-purple-solid-color-background.jpg" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
   </a>
