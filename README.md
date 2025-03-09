@@ -19,7 +19,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-<div align="center" style="background-image:url('https://www.solidbackgrounds.com/images/1920x1080/1920x1080-light-pastel-purple-solid-color-background.jpg')">  <p align="center">
+<p align="center">
   <img src="https://www.solidbackgrounds.com/images/1920x1080/1920x1080-light-pastel-purple-solid-color-background.jpg" width="100%" />
 </p>
 
