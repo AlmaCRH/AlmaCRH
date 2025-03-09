@@ -44,5 +44,5 @@
 
 ![Alma's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=almacrh&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=dracula&show_icons=true)
 ![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almacrh&show_icons=true&theme=dracula)
-![Alma's GitHub Streak](https://streak-stats.demolab.com/?user=almacrh)](https://git.io/streak-stats)
+[![Alma's GitHub Streak](https://streak-stats.demolab.com/?user=almacrh)](https://git.io/streak-stats)
 
