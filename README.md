@@ -44,6 +44,8 @@
 
 
 ![Alma's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=almacrh&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=material-palenight&show_icons=true)
+</br>
 ![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almacrh&show_icons=true&theme=material-palenight)
+</br>
 [![Alma's GitHub Streak](https://streak-stats.demolab.com/?user=almacrh&theme=material-palenight)](https://git.io/streak-stats)
 
