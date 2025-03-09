@@ -5,7 +5,8 @@
 👩🏻‍💻 I’m an active learner improving my programming skills!
   
 📫 Reach me: alma@almacrh.com
-  
+<div align="center">  https://www.codewars.com/users/R3vna/badges/large</div>
+
 
 <br/>  
 
