@@ -18,7 +18,7 @@
 
 ## My Skill Set  
 <p align="center">
-<img src="/skills.png"/>
+<img src="/skills.png" width="200" height="400"/>
 </p>
 
 <br/>  
