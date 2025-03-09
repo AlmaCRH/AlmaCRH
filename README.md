@@ -42,7 +42,8 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 <br/>  
 
-![Alma's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=almacrh&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=monokai&show_icons=true)
-![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almacrh&show_icons=true&theme=monokai)
-[![Alma's GitHub Streak](https://streak-stats.demolab.com/?user=almacrh&theme=monokai)](https://git.io/streak-stats)
+
+![Alma's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=almacrh&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=material-palenight&show_icons=true)
+![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almacrh&show_icons=true&theme=material-palenight)
+[![Alma's GitHub Streak](https://streak-stats.demolab.com/?user=almacrh&theme=material-palenight)](https://git.io/streak-stats)
 
