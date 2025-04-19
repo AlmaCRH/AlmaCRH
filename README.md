@@ -1,10 +1,10 @@
 # <div align="center">I'm Alma, a full-stack web developer </div>  
   
-<h3>🌸 Currently available to work!</h3> 
+<p>🌸 Currently **available** to work!</p> 
 
-<h3>👩🏻‍💻 I’m an active learner improving my programming skills!</h3>
+<p>👩🏻‍💻 I’m an active learner improving my programming skills!</p>
 
-<h3>📫 Reach me: alma@almacrh.com</h3>
+<p>📫 Reach me: alma@almacrh.com</p>
 
 
 <br/>
@@ -17,7 +17,7 @@
 <br/>  
 
 
-## My Skill Set
+# My Skill Set
 <h3> Front-end: </h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
