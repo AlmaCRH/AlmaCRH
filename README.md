@@ -1,6 +1,6 @@
 # <div align="center">I'm Alma, a full-stack web developer </div>  
   
-<p>🌸 Currently **available** to work!</p> 
+<p>🌸 Currently <strong>available</strong> to work!</p> 
 
 <p>👩🏻‍💻 I’m an active learner improving my programming skills!</p>
 
